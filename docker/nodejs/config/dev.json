@@ -1,9 +1,0 @@
-{
-    "dbConfig": {
-        "host": "172.20.1.10",
-        "port": 3306,
-        "user": "root",
-	"password": "secret",
-	"database": "juragan_beku"
-    }
-}
